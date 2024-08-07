@@ -7,7 +7,7 @@ from tenacity import (
 )
 
 import sys
-sys.path.append("workspace/configs")
+sys.path.append("/workspace/configs")
 
 
 import config
